@@ -1,6 +1,10 @@
 <h1 align="center" >Oi, Eu sou o Thiago! <img height=30 src="https://user-images.githubusercontent.com/62777715/180500455-956f9a33-3227-4c78-b75e-d3acc478c3a5.gif" /></h1> 
 
-<p align="center" ><img height=250 src="https://user-images.githubusercontent.com/62777715/180505375-fe444e46-30ea-44ba-ae30-f3c014212687.gif"/></p>
+- 🔭 Eu estou trabalhando com **Back-end**
+
+- 🌱 Eu estou aprendendo **Prisma.io**
+
+- 💬 Ask me about **Node.js**
 
 <h2 align="left" >🛠️ Stack & Skills</h2>
 
