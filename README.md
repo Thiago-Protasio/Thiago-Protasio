@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 Como me contatar **thiagoprotasio2@gmail.com**
-
 <h2 align="left" >🛠️ Stack & Skills</h2>
 
 - <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> Node
