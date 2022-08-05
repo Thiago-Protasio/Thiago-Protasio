@@ -4,7 +4,7 @@
 
 - 🌱 Eu estou aprendendo **Prisma.io**
 
-- 💬 Ask me about **Node.js**
+- 💬 Me pergunte sobre **Node.js**
 
 <h2 align="left" >🛠️ Stack & Skills</h2>
 
